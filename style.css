@@ -672,7 +672,11 @@ footer {
             font-size: 24px;
             font-weight: bold;
         }
-
+        .footer-logo img {
+            width: 150px;
+            height: 150px;
+            margin-right: 10px;
+        }
         .footer-logo span {
             color: #F5C542;
         }
